@@ -1,0 +1,106 @@
+Mono path[0] = 'C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/builds/AdvancedToolsML_Data/Managed'
+Mono config path = 'C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/builds/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.40f1 (157d81624ddf)
+[Subsystems] Discovering subsystems at path C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/builds/AdvancedToolsML_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.409 seconds
+- Finished resetting the current domain, in  0.008 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DUnshadowGeometry shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CameraMotionBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/BillboardWavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/TemporalAA shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Scaling Setup shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/CoreSRP/CoreCopy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DUnshadowSprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/Vertexlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Debug/DebugReplacement shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/ShadowProjected2D shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DShadowSprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareDataDriven shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Light2D shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/FallbackError shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal/HDRDebugView shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareScreenSpace shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/WavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DShadowGeometry shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/PaniniProjection shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Universal Render Pipeline/2D/Sprite-Lit-Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+UnloadTime: 1.545600 ms
+Registered Communicator in Agent.
+Logging training data to: C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/builds/AdvancedToolsML_Data\SACtest.csv
+[LOG] Episodes 51-100: Avg Steps=169.52, Avg Reward=-0.56, Avg Distance=2.54
+[LOG] Episodes 101-150: Avg Steps=209.40, Avg Reward=0.48, Avg Distance=8.27
+[LOG] Episodes 201-250: Avg Steps=212.10, Avg Reward=4.22, Avg Distance=7.89
+[LOG] Episodes 251-300: Avg Steps=138.34, Avg Reward=7.27, Avg Distance=8.16
+[LOG] Episodes 301-350: Avg Steps=130.68, Avg Reward=7.47, Avg Distance=8.39
+[LOG] Episodes 351-400: Avg Steps=126.74, Avg Reward=5.73, Avg Distance=6.79
+[LOG] Episodes 401-450: Avg Steps=124.26, Avg Reward=7.18, Avg Distance=7.81
+[LOG] Episodes 451-500: Avg Steps=132.16, Avg Reward=6.97, Avg Distance=8.06
+[LOG] Episodes 501-550: Avg Steps=127.50, Avg Reward=7.28, Avg Distance=8.13
+[LOG] Episodes 551-600: Avg Steps=129.38, Avg Reward=7.38, Avg Distance=8.19
+[LOG] Episodes 601-650: Avg Steps=138.02, Avg Reward=7.90, Avg Distance=8.37
+[LOG] Episodes 651-700: Avg Steps=162.96, Avg Reward=8.13, Avg Distance=9.01
+[LOG] Episodes 701-750: Avg Steps=186.30, Avg Reward=11.12, Avg Distance=11.39
+[LOG] Episodes 751-800: Avg Steps=247.56, Avg Reward=14.52, Avg Distance=14.19
+[LOG] Episodes 801-850: Avg Steps=309.68, Avg Reward=19.23, Avg Distance=17.75
+[LOG] Episodes 851-900: Avg Steps=223.52, Avg Reward=18.00, Avg Distance=15.43
+[LOG] Episodes 901-950: Avg Steps=202.24, Avg Reward=15.39, Avg Distance=13.15
+[LOG] Episodes 951-1000: Avg Steps=227.42, Avg Reward=19.06, Avg Distance=15.42
+[LOG] Episodes 1001-1050: Avg Steps=212.34, Avg Reward=17.83, Avg Distance=14.13
+[LOG] Episodes 1051-1100: Avg Steps=237.58, Avg Reward=19.34, Avg Distance=16.05
+[LOG] Episodes 1101-1150: Avg Steps=254.86, Avg Reward=19.63, Avg Distance=17.08
+[LOG] Episodes 1151-1200: Avg Steps=374.32, Avg Reward=33.06, Avg Distance=27.08
+[LOG] Episodes 1201-1250: Avg Steps=387.00, Avg Reward=33.84, Avg Distance=28.17
+[LOG] Episodes 1251-1300: Avg Steps=449.76, Avg Reward=39.46, Avg Distance=32.61
+[LOG] Episodes 1301-1350: Avg Steps=380.26, Avg Reward=34.19, Avg Distance=28.62
+[LOG] Episodes 1351-1400: Avg Steps=452.06, Avg Reward=41.88, Avg Distance=34.73
+[LOG] Episodes 1401-1450: Avg Steps=447.40, Avg Reward=42.93, Avg Distance=35.20
+[LOG] Episodes 1451-1500: Avg Steps=540.26, Avg Reward=50.92, Avg Distance=42.55
+[LOG] Episodes 1501-1550: Avg Steps=378.42, Avg Reward=30.87, Avg Distance=26.29
+[DEBUG] Reached the goal, ending episode.
+[LOG] Episodes 1551-1600: Avg Steps=587.36, Avg Reward=57.39, Avg Distance=47.23
+[LOG] Episodes 1601-1650: Avg Steps=609.32, Avg Reward=59.65, Avg Distance=49.35
+[DEBUG] Reached the goal, ending episode.
+[DEBUG] Reached the goal, ending episode.
+[LOG] Episodes 1651-1700: Avg Steps=566.88, Avg Reward=54.42, Avg Distance=46.19
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.

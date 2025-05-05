@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1746097328",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Nicole Minar Widjaja\\Documents\\BINUS STUFF\\Saxion CSA\\AdvancedToolsML\\venv\\Scripts\\mlagents-learn results\\ppo\\configuration.yaml --run-id=PPOv4p5 --initialize-from=PPOv4p4",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.7.0+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1746097358"
+    },
+    "total": 29.738549000001512,
+    "count": 1,
+    "self": 0.010840200004167855,
+    "children": {
+        "run_training.setup": {
+            "total": 0.1979006000328809,
+            "count": 1,
+            "self": 0.1979006000328809
+        },
+        "TrainerController.start_learning": {
+            "total": 29.529808199964464,
+            "count": 1,
+            "self": 0.0006776999216526747,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 29.529111800016835,
+                    "count": 1,
+                    "self": 29.529111800016835
+                },
+                "trainer_threads": {
+                    "total": 3.00002284348011e-06,
+                    "count": 1,
+                    "self": 3.00002284348011e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.5700003132224083e-05,
+                    "count": 1,
+                    "self": 1.5700003132224083e-05
+                }
+            }
+        }
+    }
+}

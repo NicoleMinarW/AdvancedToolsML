@@ -1,0 +1,7461 @@
+Mono path[0] = 'C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/AdvancedToolsML_Data/Managed'
+Mono config path = 'C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.40f1 (157d81624ddf)
+[Subsystems] Discovering subsystems at path C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/AdvancedToolsML_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.498 seconds
+- Finished resetting the current domain, in  0.008 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DUnshadowGeometry shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CameraMotionBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/BillboardWavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/TemporalAA shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Scaling Setup shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/CoreSRP/CoreCopy shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DUnshadowSprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/Vertexlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Debug/DebugReplacement shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/ShadowProjected2D shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DShadowSprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareDataDriven shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Light2D shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/FallbackError shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal/HDRDebugView shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareScreenSpace shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/TerrainEngine/Details/UniversalPipeline/WavingDoublePass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Shadow2DShadowGeometry shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/PaniniProjection shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Universal Render Pipeline/2D/Sprite-Lit-Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+UnloadTime: 1.179900 ms
+Registered Communicator in Agent.
+Logging training data to: C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/AdvancedToolsML_Data\PPOv4pt3.csv
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 1-10: Avg Steps=177.60, Avg Reward=0.89, Avg Distance=8.75
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 11-20: Avg Steps=152.10, Avg Reward=0.00, Avg Distance=8.47
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 21-30: Avg Steps=136.40, Avg Reward=-0.30, Avg Distance=8.30
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 31-40: Avg Steps=153.30, Avg Reward=-0.32, Avg Distance=8.25
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 41-50: Avg Steps=144.60, Avg Reward=-0.81, Avg Distance=8.22
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 51-60: Avg Steps=134.20, Avg Reward=-0.80, Avg Distance=8.19
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 61-70: Avg Steps=133.40, Avg Reward=0.02, Avg Distance=8.48
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 71-80: Avg Steps=134.20, Avg Reward=0.21, Avg Distance=8.46
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 81-90: Avg Steps=170.10, Avg Reward=1.57, Avg Distance=10.25
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+[LOG] Episodes 91-100: Avg Steps=135.00, Avg Reward=0.52, Avg Distance=8.66
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 101-110: Avg Steps=128.50, Avg Reward=-0.78, Avg Distance=8.35
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 111-120: Avg Steps=128.80, Avg Reward=0.02, Avg Distance=8.45
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+[LOG] Episodes 121-130: Avg Steps=137.10, Avg Reward=0.97, Avg Distance=9.57
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Triangle (1)
+Forward Hit: Triangle (1)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 131-140: Avg Steps=129.30, Avg Reward=1.47, Avg Distance=9.54
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 141-150: Avg Steps=129.80, Avg Reward=1.05, Avg Distance=9.03
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 151-160: Avg Steps=127.20, Avg Reward=0.04, Avg Distance=8.73
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+[LOG] Episodes 161-170: Avg Steps=146.90, Avg Reward=2.28, Avg Distance=10.01
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 171-180: Avg Steps=131.20, Avg Reward=0.70, Avg Distance=8.12
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Checkpoint (1)
+Forward Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Triangle (1)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint (2)
+Low Bar Hit: Checkpoint (2)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 181-190: Avg Steps=162.60, Avg Reward=3.71, Avg Distance=11.00
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 191-200: Avg Steps=121.20, Avg Reward=1.04, Avg Distance=8.76
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+[LOG] Episodes 201-210: Avg Steps=119.10, Avg Reward=0.85, Avg Distance=8.80
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+[LOG] Episodes 211-220: Avg Steps=106.70, Avg Reward=-0.76, Avg Distance=8.39
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+[LOG] Episodes 221-230: Avg Steps=140.70, Avg Reward=2.28, Avg Distance=9.86
+Forward Hit: Square (1)
+Low Bar Hit: Square (1)
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+[LOG] Episodes 231-240: Avg Steps=101.10, Avg Reward=-0.40, Avg Distance=7.54
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Triangle
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Checkpoint
+Low Bar Hit: Checkpoint
+Forward Hit: Triangle
+Unable to save timers to file C:/Users/Nicole Minar Widjaja/Documents/BINUS STUFF/Saxion CSA/AdvancedToolsML/venv/AdvancedToolsML_Data\ML-Agents\Timers\SampleScene_timers.json
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.

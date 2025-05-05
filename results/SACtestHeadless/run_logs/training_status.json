@@ -1,0 +1,65 @@
+{
+    "MoveToGoalSAC": {
+        "checkpoints": [
+            {
+                "steps": 507893,
+                "file_path": "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-507893.onnx",
+                "reward": null,
+                "creation_time": 1746187713.1323204,
+                "auxillary_file_paths": [
+                    "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-507893.pt"
+                ]
+            },
+            {
+                "steps": 999997,
+                "file_path": "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-999997.onnx",
+                "reward": null,
+                "creation_time": 1746282366.1115458,
+                "auxillary_file_paths": [
+                    "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-999997.pt"
+                ]
+            },
+            {
+                "steps": 1012221,
+                "file_path": "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1012221.onnx",
+                "reward": null,
+                "creation_time": 1746283152.0771577,
+                "auxillary_file_paths": [
+                    "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1012221.pt"
+                ]
+            },
+            {
+                "steps": 1499994,
+                "file_path": "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1499994.onnx",
+                "reward": null,
+                "creation_time": 1746358959.5976868,
+                "auxillary_file_paths": [
+                    "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1499994.pt"
+                ]
+            },
+            {
+                "steps": 1500042,
+                "file_path": "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1500042.onnx",
+                "reward": 40.55172634124756,
+                "creation_time": 1746358959.6947694,
+                "auxillary_file_paths": [
+                    "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1500042.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500042,
+            "file_path": "results\\SACtestHeadless\\MoveToGoalSAC.onnx",
+            "reward": 40.55172634124756,
+            "creation_time": 1746358959.6947694,
+            "auxillary_file_paths": [
+                "results\\SACtestHeadless\\MoveToGoalSAC\\MoveToGoalSAC-1500042.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.0+cpu"
+    }
+}
